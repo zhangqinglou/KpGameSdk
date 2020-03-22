@@ -3,10 +3,11 @@
   <groupId>com.zql</groupId>
   <artifactId>KpGameSdk</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.1</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.0.1</version>
     </versions>
-    <lastUpdated>20200322095400</lastUpdated>
+    <lastUpdated>20200322124202</lastUpdated>
   </versioning>
 </metadata>
