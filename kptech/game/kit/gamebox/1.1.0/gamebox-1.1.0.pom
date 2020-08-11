@@ -14,37 +14,10 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <artifactId>ZADSdk-3.3.3230.3</artifactId>
-      <type>aar</type>
+      <groupId>com.sy.zmeng</groupId>
+      <artifactId>ZADSdk</artifactId>
+      <version>3.3.258.127</version>
       <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
-      <artifactId>msa_mdid_1.0.13</artifactId>
-      <type>aar</type>
-      <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
-    </dependency>
-    <dependency>
-      <artifactId>GDTSDK.unionNormal.4.232.1102</artifactId>
-      <type>aar</type>
-      <scope>compile</scope>
-      <exclusions>
-        <exclusion>
-          <artifactId>*</artifactId>
-          <groupId>*</groupId>
-        </exclusion>
-      </exclusions>
     </dependency>
     <dependency>
       <groupId>io.reactivex.rxjava2</groupId>
